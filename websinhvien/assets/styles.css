@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.img-thumbnail {
+    border-radius: 8px;
+}
